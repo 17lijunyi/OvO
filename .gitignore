@@ -1,0 +1,16 @@
+.build/
+dist/
+.DS_Store
+*.xcodeproj/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.p12
+*.pfx
+*.key
+*.pem
+*.keychain*
+keychain-password
+QA-*.md
+Resources/PreviousIcons/

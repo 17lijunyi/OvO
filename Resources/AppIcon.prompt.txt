@@ -1,0 +1,9 @@
+2026-09-20 — Built-in imagegen edit (not CLI).
+Selected by user: 4：浅杏桃，偏暖。
+Approved output: exec-a3f3164b-f9b3-4882-8d66-1a325a16a267.png
+Parent preview: exec-7074bfcb-1889-481c-bd95-5f90cb07208c.png
+Previous production asset: Resources/PreviousIcons/AppIcon-OvO-build13.png
+Installed output: Resources/AppIcon.png
+
+Final edit prompt:
+Use case: precise-object-edit. Edit this exact icon. User requests the cloud color a little lighter. Change ONLY the cloud's colors: lift midtones and especially shadows by roughly 15–20%, reduce saturation slightly for a softer milky pastel finish. Color direction: creamy pale apricot highlights to soft peach midtones to muted rose-peach shadows. Replace the deepest dark terracotta/red patches with gentle dusty peach; no dark red. Keep the existing clearly visible multi-tone gradient and soft inflated volume; do not flatten into a solid fill, do not overexpose or use bright neon colors. Preserve EXACTLY all geometry: the cloud silhouette, the white pearl-glass rounded-square outer tile, placement and size, and most importantly the current playful white OvO face with tilted equal-sized oval O eyes and small curved v smile. Do not alter face strokes, position, scale, or expression at all. Preserve white face contrast against the cloud. Keep same canvas, margins and transparent outer background. One single icon, no labels or extra text. This is a gentle pastel color adjustment, not a redesign.

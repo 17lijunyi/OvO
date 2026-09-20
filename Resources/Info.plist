@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+    <key>CFBundleName</key><string>OvO</string>
+    <key>CFBundleDisplayName</key><string>OvO</string>
+    <key>CFBundleExecutable</key><string>Ovo</string>
+    <key>CFBundleIdentifier</key><string>com.ovo.translator</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0.0</string>
+    <key>CFBundleVersion</key><string>15</string>
+    <key>CFBundleIconFile</key><string>Ovo</string>
+    <key>LSApplicationCategoryType</key><string>public.app-category.utilities</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>LSUIElement</key><false/>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSPrincipalClass</key><string>NSApplication</string>
+    <key>CFBundleDevelopmentRegion</key><string>zh_CN</string>
+    <key>CFBundleLocalizations</key><array><string>zh_CN</string><string>en</string></array>
+    <key>NSScreenCaptureUsageDescription</key><string>用于识别你框选区域中的文字并翻译。</string>
+</dict></plist>
