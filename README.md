@@ -1,4 +1,4 @@
-![OvO 与作者 IP 的毛绒封面](docs/images/ovo-hero.png)
+![作者的灰白 IP 坐在 OvO 图标上，交换中英文翻译卡片](docs/images/ovo-hero.png?v=6628be8b7ad1)
 
 # OvO
 
